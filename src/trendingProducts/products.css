@@ -1,0 +1,50 @@
+.wrapper{
+    padding:14rem;
+}
+.trending-tag{
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: gray;
+margin-bottom: 1rem;
+}
+.wrapers{
+    position: relative;
+    text-align: center;
+    width: 50%;
+}
+.wrapers:hover .favorate{
+    background-color: red;
+}
+.wrapers>img{
+    width: 25rem;
+}
+.favorate{
+    display: flex;
+    width:3.8rem;
+    height: 3.8rem;
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    right: 18.5rem;
+    top: .3rem;
+}
+.name>h4{
+    font-weight: 600;
+    color: gray;
+    margin-top: 1rem;
+}
+.data>p{
+    font-weight: 500;
+    color: gray;
+}
+.style5{
+    text-align: center;
+    padding: 6px 25px;
+    color:gray;
+    background-color: white;
+    border: .1rem solid;
+    border-color: gray;  
+}

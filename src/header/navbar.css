@@ -1,0 +1,19 @@
+.navbar{
+    border: .1rem;
+    background: white;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    justify-content: center;
+}
+.middle_navbar{
+    display: flex;
+    margin-top: 0px;
+}
+.nav-link{
+    color: black;
+    font-size: 1.5rem;
+}
+.red{
+    color: red;
+    margin-right: 1rem;
+    font-size: 1.5rem;
+}

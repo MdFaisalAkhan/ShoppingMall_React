@@ -1,0 +1,31 @@
+.title{
+    display: flex;
+    background-color: rgba(243, 226, 221, 0.849);
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 24rem;
+}
+.text-style{
+     font-size:2rem;
+     text-align: center;
+}
+.text-style>h1{
+    font-size: 7rem;
+    font-weight: 800;
+}
+.text-style>p{
+    
+    font-size: 3rem;
+}
+.bttn-style{
+    background-color: black;
+    color: white;
+
+    
+}
+button{
+    font-size: 1.8rem;
+}
+.photo>img{
+    height: 50rem;
+}

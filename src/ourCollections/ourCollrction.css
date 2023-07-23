@@ -1,0 +1,59 @@
+.wrapper1{
+    padding: 14rem;
+    background-color: gray;
+}
+.heading{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 1.4rem;
+
+}
+.headinf>h4{
+    color: black;
+}
+.card_wrap2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.column1{
+    position: relative;
+    display: flex;
+}
+.product{
+    position: relative;
+    display: flex;
+}
+.waper2>img{
+    width: 100%;
+}
+.per{
+    position: absolute;
+    text-align: center;
+    color:white;
+    top: 15rem;
+    left: 22.5rem;
+    font-size: 2.6rem;
+    font-weight: 700;
+}
+.off{
+    position: absolute;
+    text-align: center;
+    padding: 5px 10px;
+    width: 5rem;
+    color:rgba(0, 0, 0, 0.801);
+    top: 19rem;
+    left: 22rem;
+    background-color:rgb(252, 228, 16);
+    border: .1rem solid;
+}
+.off>h4{
+}
+.data{
+    position: absolute;
+    text-align: center;
+    color:white;
+    top: 47rem;
+    left: 7.3rem;
+}

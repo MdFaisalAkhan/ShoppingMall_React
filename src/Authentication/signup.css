@@ -1,0 +1,10 @@
+.align-item-center{
+    margin-top: 5rem;
+}
+.yellow-btn{
+    background-color: rgb(150, 150, 75);
+    color: rgb(241, 234, 234);
+    margin-top: .2rem;
+    font-weight: 100;
+    width: 100%;
+}

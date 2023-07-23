@@ -1,0 +1,42 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 14rem;
+}
+
+.row-col{
+
+}
+.cateogry{
+    margin-top: 2rem;
+    margin-bottom: 2.5rem;
+
+}
+.nav-link{
+    color: gray;
+    
+}
+.nav-link:hover{
+    color: red;
+}
+.head-brand{
+    color: rgb(252, 82, 52);
+}
+.head-brand1{
+    color: gray;
+}
+.head-brand2{
+    
+    justify-content: space-between;
+    color: gray;
+}
+.head-brand2>img{
+    /* font-size: ; */
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+li{
+    list-style: none;
+}

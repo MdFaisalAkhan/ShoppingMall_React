@@ -1,0 +1,14 @@
+.wrapper{
+    padding:14rem;
+}
+.trending-tag{
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: gray;
+margin-bottom: 1rem;
+}
+.wraper{
+    position: relative;
+    text-align: center;
+}

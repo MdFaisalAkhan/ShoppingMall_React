@@ -1,0 +1,20 @@
+.mb-3> input{
+    font-size: 2rem;
+}
+.mb-3>label{
+    font-size: 1.8rem;
+}
+.col-12>button{
+margin: 2rem;
+font-size: 1.8rem;
+}
+.dec{
+    color: red;
+}
+.text-center{
+    color: tomato;
+}
+.mb-3>p{
+    color: rgb(238, 139, 11);
+    font-size: 1.2rem;
+}

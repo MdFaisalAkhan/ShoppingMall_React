@@ -1,0 +1,72 @@
+.wrapper9{
+    padding:14rem;
+    background-color: rgba(134, 133, 133, 0.877);
+}
+.trending-tag{
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: rgb(228, 218, 218);
+margin-bottom: 1rem;
+}
+.card_wrap{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.wraper4{
+    text-align: center;
+    background-color: white;
+    margin: .5rem;
+}
+.wraper4>img{
+    width: 25rem;
+    margin: 1rem;
+}
+.wraper4>p{
+    margin-left: .4rem;
+    margin-right: .4rem;
+}
+.read{
+    text-align: center;
+    justify-content: center;
+}
+.read>p{
+    color: red;
+    text-align: center;
+}
+.signin{
+    color: rgb(58, 56, 56);
+}
+.signup{
+    margin-top: 13rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.form-input{
+    position: relative;
+    width: 29rem;
+    text-align: center;
+    padding: 1.5rem 1.4rem;
+    height: 4.6rem;
+    color:gray;
+    background-color: white;
+    border: .1rem solid;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,1);
+}
+
+.signup-but{
+    position: absolute;
+    text-align: center;
+    padding: 1.5rem 1.4rem;
+    height: 4.6rem;
+    right: -10rem;
+    width: 10rem;
+    top: .1rem;
+    color:white;
+    background-color:  red;
+    
+}

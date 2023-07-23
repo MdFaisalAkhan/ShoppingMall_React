@@ -1,0 +1,35 @@
+.card-rapper{
+    display: flex;
+    background-color: rgba(255, 99, 71, 0.877);
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 20rem;
+}
+.design{
+
+}
+.design>img{
+
+}
+.info{
+    color: white;
+}
+.info>h1{
+    font-size: 6rem;
+    margin-bottom: 1.7rem;
+    
+}
+.info>p{
+    font-weight: 600;
+    margin-bottom: 4rem;
+}
+.style2{
+    text-align: center;
+    padding: 7px 20px;
+    width: 13rem;
+    color:white;
+    top: 17rem;
+    left: 7.3rem;
+    background-color:black;
+    border: .1rem solid;
+}
